@@ -1,0 +1,15 @@
+img {
+    height: 200px;
+    border:15px solid yellow;
+}
+
+h3 {
+    border: 10px groove blue;
+    padding: 15px;
+}
+
+p {
+    border: 10px dotted green;
+    padding:20px;
+    margin:30px;
+}
